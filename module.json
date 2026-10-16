@@ -1,0 +1,27 @@
+{
+  "id": "bard-academia",
+  "title": "Bard Academia",
+  "description": "Gestion des ambiances sonores du MJ : musiques, fonds et effets avec intensité progressive. Ajoutez vos propres fichiers audio.",
+  "version": "0.3.7",
+  "compatibility": {
+    "minimum": "14",
+    "maximum": "14",
+    "verified": "14.368"
+  },
+  "authors": [
+    {
+      "name": "Rin"
+    }
+  ],
+  "esmodules": [
+    "main.js"
+  ],
+  "styles": [
+    "style.css"
+  ],
+  "url": "https://github.com/justinchaban/Bard_Academia",
+  "manifest": "https://github.com/justinchaban/Bard_Academia/releases/latest/download/module.json",
+  "download": "https://github.com/justinchaban/Bard_Academia/releases/download/v0.3.7/bard-academia.zip",
+  "license": "LICENSE",
+  "readme": "README.md"
+}
