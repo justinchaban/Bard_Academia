@@ -8,7 +8,7 @@ Créez vos ambiances avec Lieux > Créer, puis Personnaliser > Musique / Fond / 
 Les sons restent à fournir par chaque utilisateur. La banque de départ est vide.
 
 PROTÉGER LES SONS AVANT MISE À JOUR
-1. COPIER les sons personnels dans Data/audio/bard-academia/.
+1. COPIER les sons personnels dans Data/module/bard-academia/audio.
 2. Dans les playlists du monde, modifier le chemin de chaque piste pour pointer
    vers audio/bard-academia/nom.ogg. Modifier la piste existante conserve ses réglages.
    Ne pas supprimer les anciens fichiers avant d'avoir vérifié les nouveaux chemins.
