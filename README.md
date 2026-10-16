@@ -19,4 +19,4 @@ Les banques personnelles externes ne sont pas encore prises en charge par le bou
 Banque de départ de cette version.
 
 La compatibilité verified 14.368 est reprise du manifeste fourni par l'auteur.
-Aucun nouveau test en session Foundry n'a été effectué ici.
+Module testé sur Foundry 14.368 et opérationnel.
