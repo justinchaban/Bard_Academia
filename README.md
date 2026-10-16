@@ -1,7 +1,7 @@
 # Bard_Academia
 Module Foundry VTT pour créer et piloter des ambiances sonores évolutives : musiques, bruits de fond et effets, avec réglage d’intensité.
 
-Bard Academia 0.3.3 — édition sans audio
+Bard Academia 0.3.4 — édition sans audio
 Module pour Foundry VTT 14. Auteur : Rin.
 Cette distribution contient le code et les illustrations, mais aucun fichier audio.
 Créez vos ambiances avec Lieux > Créer, puis Personnaliser > Musique / Fond / Effet.
